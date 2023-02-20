@@ -1,4 +1,4 @@
-php artisan migrate 
+php artisan migrate <br>
 php artisan passport:client --personal
 lalu ketikkan nama token yang anda inginkan
 buka redis
